@@ -7,3 +7,7 @@ eureka:
 spring:
   application:
     name: eureka
+management:
+  info:
+    env:
+      enabled: true
